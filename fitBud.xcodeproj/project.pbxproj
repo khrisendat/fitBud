@@ -495,6 +495,7 @@
 			isa = PBXGroup;
 			children = (
 				9A75E76E169B86C2000AFC56 /* libz.dylib */,
+				9A2BB93F169BCF0F0076B0CA /* Oauth */,
 				869469B41699EE8C0025CF85 /* fitBud */,
 				869469A11699EE8C0025CF85 /* Frameworks */,
 				8694699F1699EE8C0025CF85 /* Products */,
@@ -536,7 +537,6 @@
 				86946B3F1699EE910025CF85 /* HelloWorldLayer.m */,
 				86946B411699EE910025CF85 /* IntroLayer.h */,
 				86946B421699EE910025CF85 /* IntroLayer.m */,
-				9A2BB93F169BCF0F0076B0CA /* Oauth */,
 				86D0667B169A8B580030E1DB /* Layers */,
 				869469B51699EE8C0025CF85 /* Resources */,
 				869469CD1699EE8D0025CF85 /* libs */,
@@ -964,6 +964,7 @@
 				9A2BB95B169BCF260076B0CA /* OAuthConsumer.h */,
 			);
 			name = Oauth;
+			path = fitBud;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
