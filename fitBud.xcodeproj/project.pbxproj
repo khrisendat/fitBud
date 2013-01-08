@@ -528,7 +528,6 @@
 		869469B41699EE8C0025CF85 /* fitBud */ = {
 			isa = PBXGroup;
 			children = (
-				9A2BB93F169BCF0F0076B0CA /* Oauth */,
 				86946B3B1699EE910025CF85 /* AppDelegate.h */,
 				86946B3C1699EE910025CF85 /* AppDelegate.m */,
 				9A2BB92D169BADA70076B0CA /* oauthMachine.h */,
@@ -537,6 +536,7 @@
 				86946B3F1699EE910025CF85 /* HelloWorldLayer.m */,
 				86946B411699EE910025CF85 /* IntroLayer.h */,
 				86946B421699EE910025CF85 /* IntroLayer.m */,
+				9A2BB93F169BCF0F0076B0CA /* Oauth */,
 				86D0667B169A8B580030E1DB /* Layers */,
 				869469B51699EE8C0025CF85 /* Resources */,
 				869469CD1699EE8D0025CF85 /* libs */,
